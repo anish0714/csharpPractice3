@@ -1,0 +1,7 @@
+C:\Users\irock\source\repos\AssignmentThree\AssignmentThree\bin\Debug\AssignmentThree.exe.config
+C:\Users\irock\source\repos\AssignmentThree\AssignmentThree\bin\Debug\AssignmentThree.exe
+C:\Users\irock\source\repos\AssignmentThree\AssignmentThree\bin\Debug\AssignmentThree.pdb
+C:\Users\irock\source\repos\AssignmentThree\AssignmentThree\obj\Debug\AssignmentThree.csprojAssemblyReference.cache
+C:\Users\irock\source\repos\AssignmentThree\AssignmentThree\obj\Debug\AssignmentThree.csproj.CoreCompileInputs.cache
+C:\Users\irock\source\repos\AssignmentThree\AssignmentThree\obj\Debug\AssignmentThree.exe
+C:\Users\irock\source\repos\AssignmentThree\AssignmentThree\obj\Debug\AssignmentThree.pdb
